@@ -1,4 +1,5 @@
-<img href="/S.I_Banner.jpg"></img>
+<img src="S.I_Banner.jpg" alt="Banner" style="width:100%;"/>
+
 <h1 align="center">Hi 👋, I'm Sayeed Ibne Saif</h1>
 <h3 align="center">A passionate Cloud Engineer & Frontend Developer from Bangladesh</h3>
 
