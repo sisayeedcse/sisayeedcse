@@ -24,7 +24,7 @@
 <a href="https://instagram.com/s.i.s_sayeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.i.s_sayeed" height="30" width="40" /></a>
 </p>
 ---
-## 📊 GitHub Activity
+## 📊** GitHub Activity**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisayeedcse&theme=react-dark&hide_border=false" alt="Activity Graph" />
 </p>
