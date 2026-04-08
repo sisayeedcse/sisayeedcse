@@ -23,8 +23,9 @@
 <a href="https://fb.com/s.i.sayeed.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s.i.sayeed.official" height="30" width="40" /></a>
 <a href="https://instagram.com/s.i.s_sayeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.i.s_sayeed" height="30" width="40" /></a>
 </p>
+
 ---
-## 📊** GitHub Activity**
+## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisayeedcse&theme=react-dark&hide_border=false" alt="Activity Graph" />
 </p>
